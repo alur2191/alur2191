@@ -3,7 +3,7 @@
 
 - 👨‍💻 You can find my portfolio on [akmalu.netlify.app](https://akmalu.netlify.app)
 
-- 🔭 I’m currently working [LearningPath](http://34.234.173.82/)
+- 🔭 I’m currently working on [LearningPath](http://34.234.173.82/)
 
 - 🌱 I’m currently spending time on **rigorous daily pair programming with senior software engineers in the** [UnderdogDevs program](https://underdogdevs.org/)
 
