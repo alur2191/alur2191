@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working [LearningPath](http://34.234.173.82/)
 
-- 🌱 I’m currently spending time on **rigorous daily pair programming with senior software engineers**
+- 🌱 I’m currently spending time on **rigorous daily pair programming with senior software engineers in the ** [UnderdogDevs program](https://underdogdevs.org/)
 
 - 👯 I’m looking to collaborate on Web3, and Three.js [NFT Marketplace](https://github.com/dandavisjs/NFT-Marketplace) side project
 
-- 👨‍💻 You can find my portfolio at [akmalu.netlify.app](akmalu.netlify.app)
+- 👨‍💻 You can find my portfolio on [akmalu.netlify.app](https://akmalu.netlify.app)
 
-- 📫 How to reach me **alur2191@gmail.com**
+- 📫 Reach me by email **alur2191@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
