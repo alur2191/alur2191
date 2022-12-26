@@ -3,11 +3,9 @@
 
 - 👨‍💻 You can find my portfolio on [akmalu.netlify.app](https://akmalu.netlify.app)
 
-- 🔭 I’m currently working on [LearningPath](http://34.234.173.82/)
+- 🔭 I’m currently working on a mobile application built with React Native and another mobile application built with [Flutter](http://www.CDLhelp.app/)
 
-- 🌱 I’m currently spending time on **rigorous daily pair programming with senior software engineers in the** [UnderdogDevs program](https://underdogdevs.org/)
-
-- 👯 I’m looking to collaborate on Web3, and Three.js [NFT Marketplace](https://github.com/dandavisjs/NFT-Marketplace) side project
+- 👯 I’m looking to collaborate on Web3, and Three.js [NFT Marketplace](https://github.com/alur2191/NFT-Marketplace) side project that I'm planning to get back into
 
 - 📫 Reach me by email **alur9121@gmail.com**
 
