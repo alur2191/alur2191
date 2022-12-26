@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Web3, and Three.js [NFT Marketplace](https://github.com/dandavisjs/NFT-Marketplace) side project
 
-- 📫 Reach me by email **alur2191@gmail.com**
+- 📫 Reach me by email **alur9121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
