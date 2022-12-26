@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al</h1>
-<h3 align="center">I'm a Fullstack Software Engineer</h3>
+<h3 align="center">I'm a software engineer with experience building fullstack web application and mobile application</h3>
 
 - 👨‍💻 You can find my portfolio on [akmalu.netlify.app](https://akmalu.netlify.app)
 
