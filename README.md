@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on a mobile application built with React Native and another mobile application built with [Flutter](http://www.CDLhelp.app/)
 
-- 👯 I’m looking to collaborate on Web3, and Three.js [NFT Marketplace](https://github.com/alur2191/NFT-Marketplace) side project that I'm planning to get back into
-
 - 📫 Reach me by email **alur9121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
