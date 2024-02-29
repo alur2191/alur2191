@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al</h1>
-<h3 align="center">I'm a software engineer with experience building fullstack web application and mobile application</h3>
+
 - 📫 Reach me by email **alur9121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
